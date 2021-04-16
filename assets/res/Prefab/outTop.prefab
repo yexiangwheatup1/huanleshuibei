@@ -1,0 +1,142 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "outTop",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "outTop",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_level": 1,
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_spriteFrame": {
+          "__uuid__": "49279fab-5700-4433-bae2-4fe6500868fe"
+        }
+      },
+      {
+        "__type__": "cc.RigidBody",
+        "node": {
+          "__id__": 1
+        },
+        "_type": 0,
+        "bullet": true
+      },
+      {
+        "__type__": "cc.PhysicsBoxCollider",
+        "node": {
+          "__id__": 1
+        },
+        "_offset": {
+          "__type__": "cc.Vec2",
+          "y": -30
+        },
+        "_size": {
+          "__type__": "cc.Size",
+          "width": 100,
+          "height": 20
+        }
+      },
+      {
+        "__type__": "cc.PhysicsBoxCollider",
+        "node": {
+          "__id__": 1
+        },
+        "_offset": {
+          "__type__": "cc.Vec2",
+          "y": 30
+        },
+        "_size": {
+          "__type__": "cc.Size",
+          "width": 100,
+          "height": 20
+        }
+      },
+      {
+        "__type__": "cc.PhysicsBoxCollider",
+        "node": {
+          "__id__": 1
+        },
+        "_offset": {
+          "__type__": "cc.Vec2",
+          "x": 30
+        },
+        "_size": {
+          "__type__": "cc.Size",
+          "width": 20,
+          "height": 98
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "99854591-6561-4d9d-9a1d-9b0e52a308c0"
+      },
+      "fileId": "97ejiV/OlMUYSXs8LL8Ou6"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 103,
+      "height": 98
+    },
+    "_rotationX": 90,
+    "_rotationY": 90,
+    "_quat": {
+      "__type__": "cc.Quat",
+      "z": -0.7071067811865475,
+      "w": 0.7071067811865476
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "waterNode",
+    "_parent": {
+      "__id__": 1
+    },
+    "_level": 3,
+    "_components": [
+      {
+        "__type__": "cc.Graphics",
+        "node": {
+          "__id__": 2
+        }
+      },
+      {
+        "__type__": "8a866FFKppEN6rr724h2v69",
+        "node": {
+          "__id__": 2
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "99854591-6561-4d9d-9a1d-9b0e52a308c0"
+      },
+      "fileId": "5cDJlr1N9Dk6FmKyUe15t1"
+    },
+    "_position": {
+      "__type__": "cc.Vec3",
+      "x": 67,
+      "y": -25
+    }
+  }
+]

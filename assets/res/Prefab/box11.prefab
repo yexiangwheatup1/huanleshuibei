@@ -1,0 +1,62 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "box11",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "box11",
+    "_level": 1,
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_spriteFrame": {
+          "__uuid__": "57ceb449-f8f4-4432-b5d4-768f69d7b959"
+        },
+        "_type": 1,
+        "_sizeMode": 0
+      },
+      {
+        "__type__": "cc.RigidBody",
+        "node": {
+          "__id__": 1
+        },
+        "_type": 0,
+        "bullet": true
+      },
+      {
+        "__type__": "cc.PhysicsBoxCollider",
+        "node": {
+          "__id__": 1
+        },
+        "_friction": 1,
+        "_size": {
+          "__type__": "cc.Size",
+          "width": 145,
+          "height": 145
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "a94717c0-c82e-4762-a6c0-944d2706628a"
+      },
+      "fileId": "3b4OwLXnpP5p8l/C7HtBVO"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 150,
+      "height": 150
+    }
+  }
+]

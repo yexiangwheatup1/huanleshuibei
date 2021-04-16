@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9633bded-096f-43d6-8425-b0e4bc911f78",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "完成胜利的星星爆炸": {
+      "ver": "1.0.4",
+      "uuid": "bb43e8c2-8d2a-44ec-ace9-2182ada4f2c8",
+      "rawTextureUuid": "9633bded-096f-43d6-8425-b0e4bc911f78",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 28,
+      "height": 26,
+      "rawWidth": 28,
+      "rawHeight": 26,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

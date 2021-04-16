@@ -1,0 +1,80 @@
+{
+    "__type__": "cc.AnimationClip",
+    "_name": "videoBox-ballDraw",
+    "_duration": 0.85,
+    "wrapMode": "2",
+    "curveData": {
+        "comps": {
+            "cc.Sprite": {
+                "spriteFrame": [
+                    {
+                        "frame": 0,
+                        "value": {
+                            "__uuid__": "fc3b5a03-de51-4e22-a653-7625d4b18e2c"
+                        }
+                    },
+                    {
+                        "frame": 0.08333333333333333,
+                        "value": {
+                            "__uuid__": "ae89982d-b609-4894-a979-4e4670d79dce"
+                        }
+                    },
+                    {
+                        "frame": 0.16666666666666666,
+                        "value": {
+                            "__uuid__": "e89c2881-2cf5-4644-9121-38a85227ccff"
+                        }
+                    },
+                    {
+                        "frame": 0.25,
+                        "value": {
+                            "__uuid__": "ad719471-f096-4737-89ed-ceee9f33f5ce"
+                        }
+                    },
+                    {
+                        "frame": 0.3333333333333333,
+                        "value": {
+                            "__uuid__": "40b07d4e-9434-4550-909c-338a3158c3ab"
+                        }
+                    },
+                    {
+                        "frame": 0.4166666666666667,
+                        "value": {
+                            "__uuid__": "35eb54da-76bb-4c6e-b7c1-8f88c180f033"
+                        }
+                    },
+                    {
+                        "frame": 0.5,
+                        "value": {
+                            "__uuid__": "de4afc3c-cbe2-4b9d-9608-c66f30e24ee7"
+                        }
+                    },
+                    {
+                        "frame": 0.5833333333333334,
+                        "value": {
+                            "__uuid__": "ae6dc723-2292-417e-9ea3-3a07929b63d6"
+                        }
+                    },
+                    {
+                        "frame": 0.6666666666666666,
+                        "value": {
+                            "__uuid__": "99d0f38f-b850-4c02-b3ce-a4334ad37487"
+                        }
+                    },
+                    {
+                        "frame": 0.75,
+                        "value": {
+                            "__uuid__": "7bd4964b-c140-4e32-9bea-8f5d3706ba7c"
+                        }
+                    },
+                    {
+                        "frame": 0.8333333333333334,
+                        "value": {
+                            "__uuid__": "fcbfa475-5051-4a2c-ae93-4bf013d88efa"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

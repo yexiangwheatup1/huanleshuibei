@@ -1,0 +1,581 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "glass",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "glass",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 5
+      }
+    ],
+    "_level": 1,
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_spriteFrame": {
+          "__uuid__": "0c35829b-0fc6-400b-b4c5-eba9699d739e"
+        }
+      },
+      {
+        "__type__": "cc.RigidBody",
+        "node": {
+          "__id__": 1
+        },
+        "_type": 0,
+        "_gravityScale": 2,
+        "bullet": true
+      },
+      {
+        "__type__": "cc.PhysicsPolygonCollider",
+        "node": {
+          "__id__": 1
+        },
+        "tag": 999,
+        "_density": 2,
+        "points": [
+          {
+            "__type__": "cc.Vec2",
+            "x": -80,
+            "y": 95.5
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -85,
+            "y": 90.5
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -81.9,
+            "y": 81.1
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -78.1,
+            "y": 59.8
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -76.3,
+            "y": 53.2
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -74.9,
+            "y": 46.6
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -73,
+            "y": 35.3
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -69.1,
+            "y": 12.1
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -66,
+            "y": -4.2
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -61.5,
+            "y": -28.7
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -50.9,
+            "y": -86.6
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -48.6,
+            "y": -90.9
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -48,
+            "y": -95.5
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 46,
+            "y": -95.5
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 49.3,
+            "y": -88.3
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 55.6,
+            "y": -59.6
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 57.2,
+            "y": -49.8
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 58.3,
+            "y": -45.1
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 59.8,
+            "y": -38.8
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 60.9,
+            "y": -32.6
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 61.8,
+            "y": -24.4
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 64.2,
+            "y": -15.9
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 64.5,
+            "y": -10.6
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 65.3,
+            "y": -6.8
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 65.9,
+            "y": -3.3
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 66.3,
+            "y": 0.1
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 67.6,
+            "y": 7.7
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 69.6,
+            "y": 16.1
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 70.9,
+            "y": 22.1
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 72.3,
+            "y": 28.7
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 72.9,
+            "y": 35.9
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 74.6,
+            "y": 42.5
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 74.9,
+            "y": 49.1
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 78.3,
+            "y": 65.4
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 80.2,
+            "y": 74.9
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 82.2,
+            "y": 80.5
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 85,
+            "y": 90.5
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 82,
+            "y": 94.5
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 72,
+            "y": 95.5
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 67,
+            "y": 90.5
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 36,
+            "y": -78.5
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -36,
+            "y": -78.5
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -67,
+            "y": 90.5
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -72,
+            "y": 95.5
+          }
+        ]
+      },
+      {
+        "__type__": "cc.WeldJoint",
+        "node": {
+          "__id__": 1
+        },
+        "anchor": {
+          "__type__": "cc.Vec2",
+          "y": 65
+        },
+        "connectedAnchor": {
+          "__type__": "cc.Vec2",
+          "y": 65
+        },
+        "connectedBody": {
+          "__id__": 3
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "76ce1f46-a2e8-4ad7-bd41-c0e5be98c2d9"
+      },
+      "fileId": "79c5cBMs5LtLiBFECh89ca"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 170,
+      "height": 191
+    },
+    "groupIndex": 1
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "glassLine",
+    "_parent": {
+      "__id__": 1
+    },
+    "_level": 3,
+    "_components": [
+      {
+        "__id__": 3
+      },
+      {
+        "__type__": "cc.PhysicsBoxCollider",
+        "node": {
+          "__id__": 2
+        },
+        "tag": 666,
+        "_sensor": true,
+        "_offset": {
+          "__type__": "cc.Vec2",
+          "y": 60
+        },
+        "_size": {
+          "__type__": "cc.Size",
+          "width": 130,
+          "height": 10
+        }
+      },
+      {
+        "__type__": "90488VwdR1Cka0+8u9A8jK5",
+        "node": {
+          "__id__": 2
+        },
+        "complete": {
+          "__id__": 4
+        },
+        "glass1Atlas": [
+          {
+            "__uuid__": "dd09f4d9-0151-49b5-97c6-1c68b67de5af"
+          },
+          {
+            "__uuid__": "783bed1e-889d-4599-a8ad-2d075414f30f"
+          },
+          {
+            "__uuid__": "0c35829b-0fc6-400b-b4c5-eba9699d739e"
+          }
+        ],
+        "glass2Atlas": [
+          {
+            "__uuid__": "9d216438-cf27-458d-9c5c-7b25045b2ca1"
+          },
+          {
+            "__uuid__": "9417ad40-c5ac-4208-91d1-75cd7bd37a5e"
+          },
+          {
+            "__uuid__": "08bca062-a9d3-4e0c-b809-c4dc318b34e5"
+          }
+        ],
+        "glass3Atlas": [
+          {
+            "__uuid__": "5682480d-2530-4421-b6eb-920026a70548"
+          },
+          {
+            "__uuid__": "4b2f0c6e-6952-46ea-b1ff-8bce850b2200"
+          },
+          {
+            "__uuid__": "4bd1d08c-04d2-4ca7-8a80-d7c2128b8003"
+          }
+        ],
+        "glass4Atlas": [
+          {
+            "__uuid__": "db670790-ab4f-4a4e-a0f9-6615cc015d6b"
+          },
+          {
+            "__uuid__": "508da99f-928c-4204-af98-44b84db0501a"
+          },
+          {
+            "__uuid__": "00cf2148-ffc5-46ae-815f-701388b90108"
+          }
+        ],
+        "glass5Atlas": [
+          {
+            "__uuid__": "cd0258c0-03ff-4b93-8f54-7de44342aae0"
+          },
+          {
+            "__uuid__": "9c0a2547-ac98-4f68-a6dd-b6210093dde2"
+          },
+          {
+            "__uuid__": "6d23102e-9203-407e-956d-de5db32d7063"
+          }
+        ],
+        "glass6Atlas": [
+          {
+            "__uuid__": "d5512111-1798-4796-ad2b-1fc5c78de503"
+          },
+          {
+            "__uuid__": "27a061c5-abdf-4dd9-aac8-537832328fbf"
+          },
+          {
+            "__uuid__": "1d1239c0-2e67-422d-aa1c-afae082bb22e"
+          }
+        ],
+        "glass7Atlas": [
+          {
+            "__uuid__": "4c25b367-f9c6-4e2d-bd4d-58ab353ae9e9"
+          },
+          {
+            "__uuid__": "ec7ede50-e44f-46b4-b702-86d4cec217c5"
+          },
+          {
+            "__uuid__": "a719e534-aff2-446c-bdba-c664c00de632"
+          }
+        ],
+        "glass8Atlas": [
+          {
+            "__uuid__": "3fb27408-0cbe-49d2-af96-bfacd4a978f1"
+          },
+          {
+            "__uuid__": "211c4e94-9d6d-40fc-91cb-982470df6fc9"
+          },
+          {
+            "__uuid__": "0220c9e5-ffda-443f-a839-cfec39db9bf2"
+          }
+        ],
+        "glass9999Atlas": [
+          {
+            "__uuid__": "d04a9fe5-2da8-4531-a6c8-d22846f2b6ae"
+          },
+          {
+            "__uuid__": "d1769db1-9f12-4292-b124-38f91ca48a07"
+          },
+          {
+            "__uuid__": "bc763575-63e9-4547-8058-661e3fbb72d1"
+          }
+        ],
+        "glass8888Atlas": [
+          {
+            "__uuid__": "36b874e4-258b-4f0e-a865-b7843dffbbae"
+          },
+          {
+            "__uuid__": "281092b8-06ee-4aad-ab76-60d7b0cfe63e"
+          },
+          {
+            "__uuid__": "31644d4c-bc05-4ffd-a11e-bb63c788c6fa"
+          }
+        ],
+        "glass9Atlas": [
+          {
+            "__uuid__": "f91cadd7-6650-467c-a7bf-a50bfe6a3a8a"
+          },
+          {
+            "__uuid__": "48d8fca2-436e-4514-ad44-8f342a8167d0"
+          },
+          {
+            "__uuid__": "871662fd-9448-4396-b609-c26e1706cc50"
+          }
+        ],
+        "glass10Atlas": [
+          {
+            "__uuid__": "816a3783-59de-4f1a-b957-d2ebabda79cb"
+          },
+          {
+            "__uuid__": "4f08dd3f-3817-4612-965e-0ed9e511edd9"
+          },
+          {
+            "__uuid__": "ff831258-2372-4daf-84d8-ec8eba91dd6d"
+          }
+        ]
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "76ce1f46-a2e8-4ad7-bd41-c0e5be98c2d9"
+      },
+      "fileId": "99EYSjHVlGmpC+TEnuFb2L"
+    },
+    "groupIndex": 1
+  },
+  {
+    "__type__": "cc.RigidBody",
+    "node": {
+      "__id__": 2
+    },
+    "_gravityScale": 0,
+    "enabledContactListener": true
+  },
+  {
+    "__type__": "cc.ParticleSystem",
+    "node": {
+      "__id__": 5
+    },
+    "_custom": true,
+    "_file": {
+      "__uuid__": "386cbe39-365e-4529-b2a8-bd5ef08d19d8"
+    },
+    "_spriteFrame": {
+      "__uuid__": "bb43e8c2-8d2a-44ec-ace9-2182ada4f2c8"
+    },
+    "playOnLoad": false,
+    "totalParticles": 50,
+    "duration": 0.2,
+    "emissionRate": 999.999985098839,
+    "life": 0.5,
+    "lifeVar": 0.5,
+    "_startColor": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 224
+    },
+    "_startColorVar": {
+      "__type__": "cc.Color",
+      "g": 133,
+      "b": 221,
+      "a": 0
+    },
+    "_endColor": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 224
+    },
+    "_endColorVar": {
+      "__type__": "cc.Color",
+      "g": 133,
+      "b": 221,
+      "a": 0
+    },
+    "angleVar": 30,
+    "startSize": 10,
+    "startSizeVar": 5,
+    "endSize": 20,
+    "endSizeVar": 15,
+    "posVar": {
+      "__type__": "cc.Vec2",
+      "x": 7,
+      "y": 7
+    },
+    "gravity": {
+      "__type__": "cc.Vec2",
+      "y": -700
+    },
+    "speed": 800,
+    "speedVar": 100,
+    "tangentialAccel": 0,
+    "startRadius": 100
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Particle",
+    "_parent": {
+      "__id__": 1
+    },
+    "_level": 2,
+    "_components": [
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "76ce1f46-a2e8-4ad7-bd41-c0e5be98c2d9"
+      },
+      "fileId": "abdXrzrgFDpItSTIBEt9sM"
+    },
+    "_position": {
+      "__type__": "cc.Vec3",
+      "y": -28
+    }
+  }
+]

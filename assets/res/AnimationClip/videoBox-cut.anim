@@ -1,0 +1,57 @@
+{
+    "__type__": "cc.AnimationClip",
+    "_name": "videoBox-cut",
+    "_duration": 0.5166666666666667,
+    "speed": 0.7,
+    "wrapMode": "2",
+    "curveData": {
+        "comps": {
+            "cc.Sprite": {
+                "spriteFrame": [
+                    {
+                        "frame": 0,
+                        "value": {
+                            "__uuid__": "342858b9-8d43-4803-807a-138408718675"
+                        }
+                    },
+                    {
+                        "frame": 0.08333333333333333,
+                        "value": {
+                            "__uuid__": "dc3b4994-d890-4fb6-a105-1f6c8fef3852"
+                        }
+                    },
+                    {
+                        "frame": 0.16666666666666666,
+                        "value": {
+                            "__uuid__": "97be27f6-e126-4962-b5e0-a1cce21fd129"
+                        }
+                    },
+                    {
+                        "frame": 0.25,
+                        "value": {
+                            "__uuid__": "011315ab-d83b-4a9f-bdf7-ef82f25fa127"
+                        }
+                    },
+                    {
+                        "frame": 0.3333333333333333,
+                        "value": {
+                            "__uuid__": "44e138cf-f456-4ed3-99ee-ef8315363a76"
+                        }
+                    },
+                    {
+                        "frame": 0.4166666666666667,
+                        "value": {
+                            "__uuid__": "baeaecbc-f66d-41aa-8929-ab22138e49d9"
+                        }
+                    },
+                    {
+                        "frame": 0.5,
+                        "value": {
+                            "__uuid__": "ac1e9367-dd98-4932-99b3-1864915ca36a"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

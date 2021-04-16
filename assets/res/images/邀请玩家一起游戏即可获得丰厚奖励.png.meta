@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8a09e2e4-9cb0-48a9-9135-5e5bc490328a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "邀请玩家一起游戏即可获得丰厚奖励": {
+      "ver": "1.0.4",
+      "uuid": "84b491d0-a3d6-4c47-8f84-3c081831edec",
+      "rawTextureUuid": "8a09e2e4-9cb0-48a9-9135-5e5bc490328a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 440,
+      "height": 31,
+      "rawWidth": 440,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

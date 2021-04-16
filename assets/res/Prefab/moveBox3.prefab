@@ -1,0 +1,56 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "moveBox3",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "moveBox3",
+    "_level": 1,
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_spriteFrame": {
+          "__uuid__": "c6bea6cf-9f36-41e7-a03c-acee7d3e0892"
+        },
+        "_sizeMode": 0
+      },
+      {
+        "__type__": "cc.RigidBody",
+        "node": {
+          "__id__": 1
+        },
+        "_type": 0,
+        "bullet": true
+      },
+      {
+        "__type__": "cc.PhysicsCircleCollider",
+        "node": {
+          "__id__": 1
+        },
+        "_radius": 28.5
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "ac58c5ad-4b27-46c1-9a08-83b3eee7eb68"
+      },
+      "fileId": "7e9NOzjplLKILXLN6OUB7M"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 60,
+      "height": 60
+    }
+  }
+]

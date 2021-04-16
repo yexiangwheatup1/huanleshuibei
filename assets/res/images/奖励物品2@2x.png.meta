@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "83ce8f57-cb91-48c2-a067-0ddf32c5fdd0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "奖励物品2@2x": {
+      "ver": "1.0.4",
+      "uuid": "088bde09-2503-459f-a346-e6ce0c9b761c",
+      "rawTextureUuid": "83ce8f57-cb91-48c2-a067-0ddf32c5fdd0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 566,
+      "height": 566,
+      "rawWidth": 566,
+      "rawHeight": 566,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

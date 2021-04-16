@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "803ce640-0ac0-408a-b500-d16942693ea0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "恭喜获得皮肤！@2x": {
+      "ver": "1.0.4",
+      "uuid": "a02f437c-ea55-49dc-b877-633a5a999ee3",
+      "rawTextureUuid": "803ce640-0ac0-408a-b500-d16942693ea0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 480,
+      "height": 78,
+      "rawWidth": 480,
+      "rawHeight": 78,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

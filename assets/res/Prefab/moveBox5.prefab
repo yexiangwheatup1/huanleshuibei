@@ -1,0 +1,206 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "moveBox5",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "moveBox5",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_level": 1,
+    "_components": [
+      {
+        "__type__": "cc.RigidBody",
+        "node": {
+          "__id__": 1
+        },
+        "_type": 0,
+        "_gravityScale": 0
+      },
+      {
+        "__type__": "cc.RevoluteJoint",
+        "node": {
+          "__id__": 1
+        },
+        "anchor": {
+          "__type__": "cc.Vec2",
+          "x": 0.6,
+          "y": 0.9
+        },
+        "connectedAnchor": {
+          "__type__": "cc.Vec2",
+          "x": 0.2,
+          "y": 0.5
+        },
+        "connectedBody": {
+          "__id__": 3
+        },
+        "_enableLimit": true,
+        "lowerAngle": -1440,
+        "upperAngle": 1440
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "1fa52a89-d4d4-4c00-8851-762f16791012"
+      },
+      "fileId": "956HMU79lE+p4tsVv//dMR"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 134,
+      "height": 134
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Sprite",
+    "_parent": {
+      "__id__": 1
+    },
+    "_level": 2,
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 2
+        },
+        "_spriteFrame": {
+          "__uuid__": "f459fae9-a04c-4ac6-b304-b99c49417abe"
+        }
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__type__": "cc.PhysicsPolygonCollider",
+        "node": {
+          "__id__": 2
+        },
+        "points": [
+          {
+            "__type__": "cc.Vec2",
+            "x": -10.8,
+            "y": 64.2
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -11,
+            "y": 18.7
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -18.7,
+            "y": 10.7
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -64,
+            "y": 10.7
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -63.8,
+            "y": -10.8
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -17.6,
+            "y": -10.8
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -11.2,
+            "y": -17.3
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -10.8,
+            "y": -64.2
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 11.2,
+            "y": -64.2
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 11,
+            "y": -16.8
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 17.4,
+            "y": -10.7
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 64.3,
+            "y": -11
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 64.2,
+            "y": 11.2
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 16.9,
+            "y": 11.2
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 10.8,
+            "y": 17.9
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 11,
+            "y": 64.3
+          }
+        ]
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "1fa52a89-d4d4-4c00-8851-762f16791012"
+      },
+      "fileId": "645F0iGQ9JyYOHlmgQUqjx"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 134,
+      "height": 134
+    },
+    "_rotationX": 45,
+    "_rotationY": 45,
+    "_quat": {
+      "__type__": "cc.Quat",
+      "z": -0.3826834323650898,
+      "w": 0.9238795325112867
+    }
+  },
+  {
+    "__type__": "cc.RigidBody",
+    "node": {
+      "__id__": 2
+    },
+    "_type": 0,
+    "bullet": true
+  }
+]

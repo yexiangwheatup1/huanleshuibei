@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "347fa81c-55f5-451f-8697-c093e1cfb9af",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "小电视@2x": {
+      "ver": "1.0.4",
+      "uuid": "bd534408-c278-484e-98a1-01230afb0492",
+      "rawTextureUuid": "347fa81c-55f5-451f-8697-c093e1cfb9af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 43,
+      "height": 39,
+      "rawWidth": 43,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

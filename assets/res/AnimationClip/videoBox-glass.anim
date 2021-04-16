@@ -1,0 +1,68 @@
+{
+    "__type__": "cc.AnimationClip",
+    "_name": "videoBox-glass",
+    "_duration": 0.6833333333333333,
+    "wrapMode": "2",
+    "curveData": {
+        "comps": {
+            "cc.Sprite": {
+                "spriteFrame": [
+                    {
+                        "frame": 0,
+                        "value": {
+                            "__uuid__": "3bb20119-e966-4b74-aa42-11c3b115422e"
+                        }
+                    },
+                    {
+                        "frame": 0.08333333333333333,
+                        "value": {
+                            "__uuid__": "7300cbba-c2c6-4042-a2e6-3a4e847f4e16"
+                        }
+                    },
+                    {
+                        "frame": 0.16666666666666666,
+                        "value": {
+                            "__uuid__": "d5abb792-270b-4b1b-ae0d-15cdb9987bd0"
+                        }
+                    },
+                    {
+                        "frame": 0.25,
+                        "value": {
+                            "__uuid__": "31fb16c4-9fb5-4897-8e59-de6c6c2d2ca7"
+                        }
+                    },
+                    {
+                        "frame": 0.3333333333333333,
+                        "value": {
+                            "__uuid__": "27306675-3296-4e0b-a2f2-0412c449c4b5"
+                        }
+                    },
+                    {
+                        "frame": 0.4166666666666667,
+                        "value": {
+                            "__uuid__": "48878606-b032-46a0-8dae-145ecc4c3580"
+                        }
+                    },
+                    {
+                        "frame": 0.5,
+                        "value": {
+                            "__uuid__": "ed70de7d-51c4-4f35-a76e-d831a17cf052"
+                        }
+                    },
+                    {
+                        "frame": 0.5833333333333334,
+                        "value": {
+                            "__uuid__": "5a607a59-bb60-435a-8cec-b02642757d17"
+                        }
+                    },
+                    {
+                        "frame": 0.6666666666666666,
+                        "value": {
+                            "__uuid__": "18ca022f-e9a5-4118-b083-a3bda45162ef"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

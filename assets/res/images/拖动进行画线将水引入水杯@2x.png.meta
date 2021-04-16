@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "6c0abb9e-ac2d-44d1-9979-ffebbc71d4f9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "拖动进行画线将水引入水杯@2x": {
+      "ver": "1.0.4",
+      "uuid": "bd193efa-dcb0-40ad-b4e3-ce6935fcf0cb",
+      "rawTextureUuid": "6c0abb9e-ac2d-44d1-9979-ffebbc71d4f9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 308,
+      "height": 189,
+      "rawWidth": 308,
+      "rawHeight": 189,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
